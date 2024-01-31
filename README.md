@@ -1,46 +1,33 @@
-Supply Chain Analytics Project - AtliQ Mart
-Overview:
+# Supply Chain Analytics Project - AtliQ Mart
 
-Welcome to my Supply Chain Analytics Project repository! This project demonstrates my expertise in data analytics, focusing on:
+**Overview:**
 
-Utilizing Excel for detailed analysis
-Transitioning to Power BI for enhanced visualization
-The project aims to optimize supply chain operations for AtliQ Mart, a growing FMCG manufacturer in Gujarat, India.
+Welcome to my Supply Chain Analytics Project repository! This project showcases my expertise in data analytics, with a primary focus on utilizing Excel for detailed analysis and subsequently transitioning to Power BI for enhanced visualization. The project aims to optimize supply chain operations for AtliQ Mart, a growing FMCG manufacturer headquartered in Gujarat, India.
 
-Key Features:
+**Key Features:**
 
-Excel-Powered Analysis:
+**Excel-Powered Analysis:**
 
-Used advanced features like pivot tables and conditional formatting to capture key metrics (Line Fill Rate & Volume Fill Rate).
-Uncovered insights into order quantities, undelivered orders, and product-specific delivery delays.
-Efficient Transition to Power BI:
+* Initiated the project using Excel, leveraging advanced features such as pivot tables and conditional formatting to capture 'Line Fill Rate' and 'Volume Fill Rate.'
+* Demonstrated meticulous data analysis skills by uncovering critical insights into order quantities, undelivered orders, and product-specific delivery delays.
 
-Recognized Excel's limitations for comprehensive dashboards and transitioned to Power BI for enhanced visualization and interactivity.
-Developed a dynamic dashboard allowing stakeholders to:
-Seamlessly navigate between metrics
-Drill down into performance over time, cities, and customers
-Granular Analysis:
+**Efficient Transition to Power BI:**
 
-Revealed strategic insights through granular analysis:
-Highest order quantity and undelivered order percentage (3.63%) in Vadodara city.
-Product-specific optimization opportunities (e.g., AM Curd 100 & AM Ghee 100).
-Key Findings:
+* Recognized the limitations of Excel for creating a comprehensive dashboard and seamlessly transitioned the project to Power BI for enhanced visualization and user interactivity.
+* Developed a dynamic Power BI dashboard, allowing stakeholders to seamlessly transition between metrics and drill down into detailed performance over time, cities, and customers.
 
-Vadodara city:
-Highest order quantity.
-Highest undelivered order percentage (3.63%).
-Surat: Highest "On Time In Full" (OTIF) percentage (30.1%).
-Identified top-performing customers and their specific requirements.
-Overall order fulfillment time: 2 days after agreed date (max 3 days delay).
-Product-specific optimization opportunities for products with highest average delivery delays.
-Impact:
+**Granular Analysis:**
 
-This project showcases:
+* Uncovered strategic insights through granular Excel analysis, revealing the highest order quantity and undelivered order percentage in Vadodara city.
+* Identified product-specific optimization opportunities, with detailed insights on products like AM Curd 100 and AM Ghee 100.
 
-Adeptness with Excel for detailed data analysis.
-Ability to transition to Power BI for dynamic and visually appealing dashboards.
-The project's outcomes contribute to:
+**Key Findings:**
 
-Enhanced operational efficiency.
-Improved customer satisfaction.
-Explore the interactive Power BI dashboard and delve deeper into this impactful project!
+* Vadodara city, despite having the highest order quantity, exhibited the highest undelivered order percentage (3.63%).
+* Surat demonstrated the highest 'On Time In Full' (OTIF) percentage at 30.1%, while Vadodara had the lowest OTIF% of 27.8%.
+* Identified top-performing customers and their specific requirements for targeted service improvements.
+* Crucial insights into overall order fulfillment times, averaging 2 days after the agreed delivery date, with a maximum delay of 3 days.
+* Product-specific optimization opportunities, highlighting products with the highest average delivery delays.
+
+**Feel free to explore the interactive Power BI dashboard and delve into the details of this impactful supply chain analytics project!**
+
