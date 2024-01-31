@@ -1,12 +1,12 @@
-Supply Chain Analytics Project - AtliQ Mart
-Overview:
+## Supply Chain Analytics Project - AtliQ Mart
+### Overview:
 
-This project showcases my expertise in data analytics applied to optimize supply chain operations for AtliQ Mart, a growing FMCG manufacturer in India. The project leveraged both Excel for detailed analysis and Power BI for enhanced visualization and user interaction.
+Welcome to my Supply Chain Analytics Project repository! This project showcases my expertise in data analytics applied to optimize supply chain operations for AtliQ Mart, a growing FMCG manufacturer in India. The project leveraged both Excel for detailed analysis and Power BI for enhanced visualization and user interaction.
 
-Key Features:
+### Key Features:
 
 Excel-Powered Analysis:
-Utilized pivot tables and conditional formatting to capture key metrics like "Line Fill Rate" and "Volume Fill Rate."
+Utilized pivot tables and conditional formatting to capture key metrics like "Line Fill Rate" and "Volume Fill Rate".
 Uncovered crucial insights into order quantities, undelivered orders, and product-specific delivery delays.
 Efficient Transition to Power BI:
 Transitioned from Excel to Power BI for enhanced visualization and user interactivity.
